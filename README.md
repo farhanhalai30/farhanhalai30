@@ -15,6 +15,8 @@ Technologies -
 - PHP, WordPress, CakePHP
 - SCSS, PostCSS
 
+![](https://komarev.com/ghpvc/?username=farhanhalai30&label=PROFILE+VIEWS)
+
 Feel free to reach,
 
 <div style="display: block">

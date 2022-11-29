@@ -11,7 +11,8 @@ About Me -
 
 Technologies -
 
-- JavaScript, React.js, Next.js
+- JavaScript, TypeScript, React.js, Next.js, Vue.js
+- Webpack, Rollup
 - PHP, WordPress, CakePHP
 - SCSS, PostCSS
 

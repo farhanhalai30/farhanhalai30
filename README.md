@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-<b>Farhan Halai</b> Here...
+**Farhan Halai** Here...
 
-About Me -
+**About Me -**
 
 - I'm a Web Developer
-- A consistent learner with a knack of exploring new things
+- A consistent learner with a knack for exploring new things
 - Appreciates neat and clean design with more finite and granular user interactions
 - Like to work on projects that are challenging in terms of both, logically and creativity
 
-Technologies -
+**Technologies -**
 
 - JavaScript, TypeScript, React.js, Next.js, Vue.js
 - Webpack, Rollup
@@ -18,7 +18,7 @@ Technologies -
 
 ![](https://komarev.com/ghpvc/?username=farhanhalai30&label=PROFILE+VIEWS)
 
-Feel free to reach,
+Feel free to reach out,
 
 <div style="display: block">
     <a href="https://in.linkedin.com/in/farhan-halai-127152118" target="_blank" rel="nofollow"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="28" width="28" /></a>

@@ -2,14 +2,14 @@
 
 **Farhan Halai** here...
 
-**About Me -**
+**About Me**
 
 - I'm a Web Developer
 - A consistent learner with a knack for exploring new things
 - Appreciates neat and clean design with more finite and granular user interactions
 - Like to work on projects that are challenging in terms of both, logically and creativity
 
-**Technologies -**
+**Technologies**
 
 - JavaScript, TypeScript, React.js, Next.js, Vue.js
 - Webpack, Rollup

@@ -17,6 +17,12 @@
 - Jest
 - PHP, WordPress, CakePHP
 
+**Experience**
+
+- **Chargebee** - Senior Software Engineer (*Aug'21 - Present*)
+- **Media.net** - Jr UI Developer to Sr UI Developer (*Dec'16 - Aug'21*)
+- **Flyrobe** - Software Engineering Intern (*Nov'16 - Dec'16*)
+
 ![](https://komarev.com/ghpvc/?username=farhanhalai30&label=PROFILE+VIEWS)
 
 Feel free to reach out,

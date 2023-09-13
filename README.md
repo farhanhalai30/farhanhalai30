@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Farhan Halai** Here...
+**Farhan Halai** here...
 
 **About Me -**
 
@@ -13,8 +13,9 @@
 
 - JavaScript, TypeScript, React.js, Next.js, Vue.js
 - Webpack, Rollup
-- PHP, WordPress, CakePHP
 - SCSS, PostCSS
+- Jest
+- PHP, WordPress, CakePHP
 
 ![](https://komarev.com/ghpvc/?username=farhanhalai30&label=PROFILE+VIEWS)
 

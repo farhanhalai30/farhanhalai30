@@ -7,7 +7,7 @@
 - I'm a Web Developer.
 - A consistent learner with a knack for exploring new things.
 - Appreciates neat and clean design with more finite and granular user interactions.
-- Like to work on projects that are challenging in terms of both, logically and creativity.
+- Like to work on projects that are challenging in terms of both, logic and creativity.
 
 **Technologies**
 

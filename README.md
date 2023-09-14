@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Farhan Halai** here...
+**Farhan Halai** here.
 
 **About Me**
 

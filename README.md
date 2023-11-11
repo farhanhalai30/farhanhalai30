@@ -4,18 +4,17 @@
 
 **About Me**
 
-- I'm a Web Developer.
-- A consistent learner with a knack for exploring new things.
-- Appreciates neat and clean design with more finite and granular user interactions.
-- Like to work on projects that are challenging in terms of both, logic and creativity.
+- I am a Frontend Engineer.
+- A **consistent learner** with a knack for exploring new things.
+- Appreciates **neat and clean design** with more finite and granular user interactions.
+- I like to work on projects that are challenging in terms of both - **logic** and **creativity**.
 
 **Technologies**
 
-- JavaScript, TypeScript, React.js, Next.js, Vue.js
-- Webpack, Rollup
-- SCSS, PostCSS
-- Jest
-- PHP, WordPress, CakePHP
+- **Languages** - HTML, CSS, JavaScript
+- **Frameworks** - React.js, Next.js, Vue.js
+- **Extended languages** - TypeScript, SCSS, PostCSS
+- **Other Tools** - Webpack, Rollup, Jest
 
 **Experience**
 

@@ -14,7 +14,7 @@
 - **Languages** - HTML, CSS, JavaScript
 - **Frameworks** - React.js, Next.js, Vue.js
 - **Extended languages** - TypeScript, SCSS, PostCSS
-- **Other Tools** - Webpack, Rollup, Jest
+- **Other Tools** - Webpack, Rollup, Vite, Jest
 
 **Experience**
 

@@ -18,7 +18,7 @@
 
 **Experience**
 
-- **Freelance Web Developer** currently.
+- **Lightbeam.ai** - Frontend Engineer (*Apr'24 - Present*).
 - **Chargebee** - Senior Software Engineer (*Aug'21 - Nov'23*)
 - **Media.net** - Jr. UI Developer to Sr. UI Developer (*Dec'16 - Aug'21*)
 - **Flyrobe** - Software Engineering Intern (*Nov'16 - Dec'16*)

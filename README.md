@@ -13,6 +13,7 @@
 
 - **Languages** - HTML, CSS, JavaScript
 - **Frameworks** - React.js, Next.js, Vue.js
+- **Libraries** - Redux
 - **Extended languages** - TypeScript, SCSS, PostCSS
 - **Other Tools** - Webpack, Rollup, Vite, Jest
 

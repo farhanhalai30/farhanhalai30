@@ -19,7 +19,7 @@
 
 **Experience**
 
-- **Lightbeam.ai** - Frontend Engineer (*Apr'24 - Present*).
+- **Lightbeam.ai** - Member of Technical Staff - L4 (*Apr'24 - Jun'26*).
 - **Chargebee** - Senior Software Engineer (*Aug'21 - Nov'23*)
 - **Media.net** - Jr. UI Developer to Sr. UI Developer (*Dec'16 - Aug'21*)
 - **Flyrobe** - Software Engineering Intern (*Nov'16 - Dec'16*)

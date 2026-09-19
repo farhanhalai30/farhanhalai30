@@ -31,12 +31,8 @@ Feel free to reach out,
 
 <div style="display: block">
     <a href="https://in.linkedin.com/in/farhan-halai-127152118" target="_blank" rel="nofollow"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="28" width="28" /></a>
-    <a href="https://instagram.com/farhanhalai" target="_blank" rel="nofollow"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="28" width="28" /></a>
     <a href="https://twitter.com/farhan_halai" target="_blank" rel="nofollow"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="28" width="28" /></a>
     <a href="https://medium.com/@farhanhalai30" target="_blank" rel="nofollow"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Twitter" height="28" width="28" /></a>
-    <a href="https://dev.to/farhanhalai" target="_blank" rel="nofollow">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Farhan Halai's DEV Community Profile" height="28" width="28">
-</a>
 </div>
 <!--
 **farhanhalai30/farhanhalai30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

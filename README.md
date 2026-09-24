@@ -1,50 +1,37 @@
-### Hi there 👋
+# Hi, I'm Farhan Halai 👋
 
-**Farhan Halai** here.
+**Senior Frontend Engineer** focused on building scalable, performant, and accessible web experiences.
 
-**About Me**
+I work primarily with **React, Next.js, TypeScript, and JavaScript**, with experience building frontend architectures, design systems, dashboards, payment experiences, SDKs, and reusable component systems.
 
-- I am a Senior Frontend Engineer.
-- A **consistent learner** with a knack for exploring new things.
-- Appreciates **neat and clean design** with more finite and granular user interactions.
-- I like to work on projects that are challenging in terms of both - **logic** and **creativity**.
+### What I focus on
 
-**Technologies**
+* ⚡ Web performance & Core Web Vitals
+* 🏗️ Scalable frontend architecture
+* 🧩 Reusable components & design systems
+* ♿ Accessibility & responsive experiences
+* 🧪 Frontend quality & testing
 
-- **Languages** - HTML, CSS, JavaScript
-- **Frameworks** - React.js, Next.js, Vue.js
-- **Libraries** - Redux
-- **Extended languages** - TypeScript, SCSS, PostCSS, TailwindCSS
-- **Other Tools** - Webpack, Rollup, Vite, Jest
+### Technologies
 
-**Experience**
+- **Core:** HTML, CSS, JavaScript, TypeScript
+- **Frontend:** React.js, Next.js, Vue.js, Redux
+- **Styling:** Tailwind CSS, SCSS, PostCSS
+- **Tooling:** Git, Webpack, Vite, Rollup, Jest
 
-- **Freelancer / Consultant** (*July'26 - Present*)
-- **Lightbeam.ai** - Member of Technical Staff - L4 (*Apr'24 - Jun'26*).
-- **Chargebee** - Senior Software Engineer (*Aug'21 - Nov'23*)
-- **Media.net** - Jr. UI Developer to Sr. UI Developer (*Dec'16 - Aug'21*)
-- **Flyrobe** - Software Engineering Intern (*Nov'16 - Dec'16*)
+### Experience
 
-![](https://komarev.com/ghpvc/?username=farhanhalai30&label=PROFILE+VIEWS)
+* **Freelancer / Consultant** — Jul 2026 – Present
+* **Lightbeam.ai** — Member of Technical Staff – L4 · Apr 2024 – Jun 2026
+* **Chargebee** — Senior Software Engineer · Aug 2021 – Nov 2023
+* **Media.net** — UI Developer · Dec 2016 – Aug 2021
+* **Flyrobe** — Software Development Intern · Nov 2016 – Dec 2016
 
-Feel free to reach out,
+### More about my work
 
-<div style="display: block">
-    <a href="https://in.linkedin.com/in/farhan-halai-127152118" target="_blank" rel="nofollow"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="28" width="28" /></a>
-    <a href="https://twitter.com/farhan_halai" target="_blank" rel="nofollow"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="28" width="28" /></a>
-    <a href="https://medium.com/@farhanhalai30" target="_blank" rel="nofollow"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Twitter" height="28" width="28" /></a>
-</div>
-<!--
-**farhanhalai30/farhanhalai30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **Portfolio:** https://farhanhalai.com
+📝 **Articles:** https://farhanhalai.com/blog
+💼 **LinkedIn:** https://in.linkedin.com/in/farhan-halai-127152118
+𝕏 **X:** https://twitter.com/farhan_halai
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+![](https://komarev.com/ghpvc/?username=farhanhalai30\&label=PROFILE+VIEWS)

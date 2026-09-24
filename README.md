@@ -29,9 +29,9 @@ I work primarily with **React, Next.js, TypeScript, and JavaScript**, with exper
 
 ### More about my work
 
-🌐 **Portfolio:** https://farhanhalai.com
-📝 **Articles:** https://farhanhalai.com/blog
-💼 **LinkedIn:** https://in.linkedin.com/in/farhan-halai-127152118
-𝕏 **X:** https://twitter.com/farhan_halai
+🌐 **Portfolio:** https://farhanhalai.com  
+📝 **Articles:** https://farhanhalai.com/blog  
+💼 **LinkedIn:** https://in.linkedin.com/in/farhan-halai-127152118  
+𝕏 **X:** https://twitter.com/farhan_halai  
 
 ![](https://komarev.com/ghpvc/?username=farhanhalai30\&label=PROFILE+VIEWS)

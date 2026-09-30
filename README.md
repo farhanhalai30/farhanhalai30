@@ -6,11 +6,11 @@ I work primarily with **React, Next.js, TypeScript, and JavaScript**, with exper
 
 ### What I focus on
 
-* ⚡ Web performance & Core Web Vitals
-* 🏗️ Scalable frontend architecture
-* 🧩 Reusable components & design systems
-* ♿ Accessibility & responsive experiences
-* 🧪 Frontend quality & testing
+* Web performance & Core Web Vitals
+* Scalable frontend architecture
+* Reusable components & Design systems
+* Accessibility & Responsive experiences
+* Frontend quality & Testing
 
 ### Technologies
 

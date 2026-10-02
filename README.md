@@ -2,7 +2,7 @@
 
 **Senior Frontend Engineer** focused on building scalable, performant, and accessible web experiences.
 
-I work primarily with **React, Next.js, TypeScript, and JavaScript**, with experience building frontend architectures, design systems, dashboards, payment experiences, SDKs, and reusable component systems.
+I work primarily with **React, Next.js, TypeScript, and JavaScript**, with experience building **frontend architectures, design systems, dashboards, payment experiences, SDKs, and reusable component systems**.
 
 ### What I focus on
 
